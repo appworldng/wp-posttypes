@@ -27,7 +27,6 @@ class wpPostTypes {
 	 */
     public function __construct() {
         add_action('admin_menu', array(get_called_class(), 'registerMenu'));
-        add_action('wp_enqueue_scripts', array(get_called_class(), 'registerScripts'));
         self::registerCustomPostTypes();
     }
 
