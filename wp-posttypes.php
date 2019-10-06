@@ -146,7 +146,7 @@ class wpPostTypes {
 			'singular_name'       => _x($title, 'Post Type Singular Name'),
 			'menu_name'           => __($title.'s'),
 			'parent_item_colon'   => __('Parent '.$title),
-			'all_items'           => __('All '.$title),
+			'all_items'           => __('All '.$title.'s'),
 			'view_item'           => __('View '.$title),
 			'add_new_item'        => __('Add New '.$title),
 			'add_new'             => __('Add New'),
