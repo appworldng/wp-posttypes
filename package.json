@@ -1,0 +1,29 @@
+{
+    "name": "wp-posttypes",
+    "version": "1.0.0",
+    "description": "A simple WordPress plugin to help you create custom post types easily.",
+    "author": "Chigozie Orunta <chigozieorunta@yahoo.com> (https://github.com/chigozieorunta/wp-posttypes)",
+    "license": "MIT",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/chigozieorunta/wp-posttypes.git"
+    },
+    "keywords": [
+        "chigozieorunta",
+        "npm",
+        "package",
+        "wp",
+        "post",
+        "types",
+        "posttypes",
+        "wordpress",
+        "chigozie",
+        "orunta"
+    ],
+    "files": [
+        "wp-posttypes.php"
+    ]
+}
